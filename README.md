@@ -91,13 +91,13 @@ they should design **complete intelligent ecosystems**.
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/rohan-sreejith-61589931b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rohansreejith05@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/RohanSreejith">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
