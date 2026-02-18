@@ -74,7 +74,8 @@ I love working at the intersection of:
 ## 🏆 Achievements
 
 - 🥇 CODEX ’26 Winner
-- 💼 AI Intern @ Gaude
+- 🥈 Epochon 2.0 Runner up
+- 💼 Employee of the month July 2025 @ Gaude
 - 🚀 Building production-grade AI systems during undergraduate studies
 
 ---
